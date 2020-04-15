@@ -35,7 +35,7 @@
     "sinon": "^1.13.0"
   },
   "dependencies": {
-    "posix": "^4.0.0",
+    "posix": "^4.2.0",
     "winston": "^2.2.0"
   }
 }
